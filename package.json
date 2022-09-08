@@ -5,6 +5,10 @@
   "bin": {
       "jl-tsnode-express": "bin/index.js"
   },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/johnliveeoroncillo/tsnode-rest-api-boilerplate-npx"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {}
