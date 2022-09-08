@@ -1,0 +1,11 @@
+{
+  "name": "jl-tsnode-express",
+  "version": "1.0.0",
+  "description": "Used to clone my typescript express boilerplate",
+  "bin": {
+      "jl-tsnode-express": "bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
